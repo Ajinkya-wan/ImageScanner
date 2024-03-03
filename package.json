@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "VoucherApp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^19.0.0",
+    "@react-native-firebase/auth": "^19.0.0",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/stack": "^6.3.25",
     "react": "18.2.0",
     "react-native": "0.73.5"
   },
